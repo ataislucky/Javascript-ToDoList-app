@@ -17,5 +17,3 @@ Key features and functionalities will include:
 * **User-friendly interface:** The app will have a clean and intuitive design.
 
 By building this to-do list app, I will demonstrate my understanding of JavaScript fundamentals, including DOM manipulation, event handling, and local storage.
- 
-**Would you like to add more details about your to-do list app, such as specific features or technologies you plan to use?**
