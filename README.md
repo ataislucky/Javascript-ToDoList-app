@@ -1,5 +1,5 @@
 ## Project Description: JavaScript To-Do List App
-
+![me](https://github.com/ataislucky/Javascript-ToDoList-app/blob/main/preview.jpg)
 **This project aims to develop a functional and user-friendly to-do list application using JavaScript.**
 
 The app will allow users to:
